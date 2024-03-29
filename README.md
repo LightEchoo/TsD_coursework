@@ -1,2 +1,2 @@
 # TsD_coursework
-.ipynb programme for processing Tweets data using NLP methods
+.ipynb programme for processing NLP questions
